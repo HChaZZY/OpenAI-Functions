@@ -1,0 +1,11 @@
+{
+    "PROXY": false, // 是否使用代理
+    "HTTP_PROXY": ["地址", 端口号],
+    "SOCKS_PROXY": ["地址", 端口号],
+    "api_key": "sk-OpenAI API key",
+    "wolfram_api_key": "Wolfram APP ID",
+    "model": "欲使用的端口号",
+    "base": "API 网址, e.g https://api.openai.com/v1",
+    "always_authenticate": false, // 永远批准AI的所有插件请求
+    "system_prompt": "你的System Prompt"
+}
